@@ -1,5 +1,5 @@
 import asyncHandler from 'express-async-handler';
-import Comments from "../models/Comments.model.js";
+import Comments from "../models/comments.model.js";
 import cloudinary from "../utils/cloudinary.js";
 
 
