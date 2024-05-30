@@ -1,7 +1,7 @@
 # Pet application
 
 
-# Devices
+
 
 ### VS Code settings
 
